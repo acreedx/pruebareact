@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/git@github.com:acreedx/pruebareact.git/static/css/main.33320e90.css",
-    "main.js": "/git@github.com:acreedx/pruebareact.git/static/js/main.c315ada4.js",
-    "static/media/fondo.jpeg": "/git@github.com:acreedx/pruebareact.git/static/media/fondo.46f957d94e79e27e7a54.jpeg",
-    "index.html": "/git@github.com:acreedx/pruebareact.git/index.html",
-    "static/media/delete.svg": "/git@github.com:acreedx/pruebareact.git/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
-    "static/media/check.svg": "/git@github.com:acreedx/pruebareact.git/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
-    "main.33320e90.css.map": "/git@github.com:acreedx/pruebareact.git/static/css/main.33320e90.css.map",
-    "main.c315ada4.js.map": "/git@github.com:acreedx/pruebareact.git/static/js/main.c315ada4.js.map"
+    "main.css": "/paginaWebReact/static/css/main.985831a8.css",
+    "main.js": "/paginaWebReact/static/js/main.39cd0203.js",
+    "static/media/fondo.jpeg": "/paginaWebReact/static/media/fondo.46f957d94e79e27e7a54.jpeg",
+    "index.html": "/paginaWebReact/index.html",
+    "static/media/delete.svg": "/paginaWebReact/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
+    "static/media/check.svg": "/paginaWebReact/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.985831a8.css.map": "/paginaWebReact/static/css/main.985831a8.css.map",
+    "main.39cd0203.js.map": "/paginaWebReact/static/js/main.39cd0203.js.map"
   },
   "entrypoints": [
-    "static/css/main.33320e90.css",
-    "static/js/main.c315ada4.js"
+    "static/css/main.985831a8.css",
+    "static/js/main.39cd0203.js"
   ]
 }
